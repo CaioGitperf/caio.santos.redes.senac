@@ -1,4 +1,4 @@
-def divisao(x,y);
-    return x / y;
+def divisao(x,y)
+    return x / y
 
-print (divisao(10,2));
+print (divisao(10,2))
